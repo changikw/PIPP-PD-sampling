@@ -4,5 +4,5 @@ PD_generation.ipynb is used to create synthetic PD example. this may be omited i
 
 Naming convention for the RJ-MCMC samplers is the 'interaction'-'spatial'.
 
-If recreating, run RunningAvg_Voro.ipynb before RunningAvg_Gauss.ipynb to transfer over data files for images
+If recreating, run RunningAvg_Gauss.ipynb before RunningAvg_Voro.ipynb to transfer over data files for images
 To run only the runnign averages, files in PDchains folder must be unzipped and be placed in the PDchains folder.
