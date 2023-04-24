@@ -12,4 +12,4 @@ Naming convention for the RJ-MCMC samplers is 'interaction'-'spatial'.
 If recreating, run RunningAvg_Gauss.ipynb before RunningAvg_Voro.ipynb to transfer over data files for images
 To run only the runnign averages, files in PDchains folder must be unzipped and be placed in the PDchains folder.
 
-The existing PIPP in referce is from  Papamarkou 2021 'A Random Persistence Diagram Generator' https://arxiv.org/abs/2104.07737
+The existing PIPP in reference is from  Papamarkou 2021 'A Random Persistence Diagram Generator' https://arxiv.org/abs/2104.07737
