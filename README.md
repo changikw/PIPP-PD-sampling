@@ -1,6 +1,6 @@
 # PIPP-PD-sampling
 
-Proposition of a variety of Pairwise Interacting Point Processes (PIPP) models for representig Persistence Diagrams(PD) are studied to compare and contrast with an existing PIPP. 
+Proposition of a variety of Pairwise Interacting Point Processes (PIPP) models for representig Persistence Diagrams (PD) are studied to compare and contrast with an existing PIPP. 
 To evaluate the efficiency of these point process models, we generate samples of PDs using a reversible
 jump Markov chain monte carlo approach. 
 We find that two other point process models provide similar efficiency regarding the accuracy and computational cost.
